@@ -1,0 +1,22 @@
+{
+  "name": "urlmap-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maza-Alain/urlmap-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maza-Alain/urlmap-crud/issues"
+  },
+  "homepage": "https://github.com/Maza-Alain/urlmap-crud#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
